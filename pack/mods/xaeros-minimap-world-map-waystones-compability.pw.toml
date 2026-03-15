@@ -11,8 +11,3 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 4637926
 project-id = 887484
-
-[option]
-optional = true
-default = true
-description = "Waystones compat for Xaero's minimap; disable if you disabled Xaero's minimap."

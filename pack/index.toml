@@ -3618,7 +3618,7 @@ metafile = true
 
 [[files]]
 file = "mods/alltheleaks.pw.toml"
-hash = "40bab1828ae2b4d755db64f1c887a2fe06171fad6ab54d4a1863ca5c30ff9b55"
+hash = "18af513a12dd4bfaddaa832622b326158c88b2cac36e7991869902220f064a2d"
 metafile = true
 
 [[files]]
@@ -3663,7 +3663,7 @@ metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "4cad4f50ffb8846804478936902988d6a8a5e0b781675bf3f75d4fcededafca6"
+hash = "cc5f0e1ddc99243a60e77a5a7c1a264973229efc838767cc4fe7d3bbb0572082"
 metafile = true
 
 [[files]]
@@ -3718,7 +3718,7 @@ metafile = true
 
 [[files]]
 file = "mods/chloride.pw.toml"
-hash = "72a88bd8043afbcab6b9541e17e3494377cf54342791ecafee01ac402eff9089"
+hash = "d4d69942233f72684006265e5fb07ae8e578511bc760688ab02377731a001557"
 metafile = true
 
 [[files]]
@@ -3758,7 +3758,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-better-fps.pw.toml"
-hash = "2dce962341375002f5937a871778cd0fc06d6bda41a3bdba8940a611b25dcd32"
+hash = "cd3963c7400c96b66d54044afba561372470089cddacfee76bcd3756a60c2d68"
 metafile = true
 
 [[files]]
@@ -3843,7 +3843,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamiclights-reforged.pw.toml"
-hash = "8f2270a50a633db681826cbfb691e6efdb25e1e0c4702125c13d525b52fe229f"
+hash = "b690648ad184aa3b979377756b440b247c1765145d769c6f7da860f115e056e4"
 metafile = true
 
 [[files]]
@@ -3853,7 +3853,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "a1575677daaaf6ea6dac12e5a10073e34025e5ca2c35b6d36ad4a5a0edbc0e82"
+hash = "fb4f3f8ca44c678b8611be2dd5101f5e19e6aba1333eb1c41d81bc4c78515790"
 metafile = true
 
 [[files]]
@@ -3868,7 +3868,7 @@ metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "f268d2c4e9748d321fecdb9bface963cf058279c83ff10a4c95361063a02d04a"
+hash = "00d1a6d6498e6765b1f5ba3597baf1060422e05f7cb2f243f90001ccb88fae26"
 metafile = true
 
 [[files]]
@@ -3956,7 +3956,7 @@ hash = "9f96e7e71361600a88a93db1be2bcf3b5dde8db3145b8791c2e4f7a649a1ea6f"
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "2621dfb5b3ad17a3adf927cc92a3bc6b0dd982c32f0265f920b29a61b34d182e"
+hash = "91fe4e6cf6394863d9eefe436648cd8f670247d5f516c44cb894d4da6978c5c1"
 metafile = true
 
 [[files]]
@@ -3971,7 +3971,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris-flywheel-compat.pw.toml"
-hash = "7f3913dea0869ca5a9343c30f3cf81cc6dfebf793c5bf5d4201330e540320d97"
+hash = "cff0bcbe79c5befee814429e2a0b5dc651b6468e761b4d9f71452cca662bb60a"
 metafile = true
 
 [[files]]
@@ -4046,7 +4046,7 @@ metafile = true
 
 [[files]]
 file = "mods/let-me-despawn.pw.toml"
-hash = "644607a28024fbb4115884962a09cb4621217f652aacd363f7a2df52ddb69862"
+hash = "0c06c992aec3709b97b7c9544d93bb461261663c70bf58aa860a28d3df6d0dbc"
 metafile = true
 
 [[files]]
@@ -4105,7 +4105,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "17523abe76f282db11e95a033e504c1da3f82ac23a42e169d6b1e4d59b6a18d6"
+hash = "c2304335120079061ff809eca7fa21845cc0244b99891b918b8c333f77a14adf"
 metafile = true
 
 [[files]]
@@ -4135,7 +4135,7 @@ metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "5ef885f9912ff6aa73db254b63a3cd22520f06261bc3c38e7c92f449806a9044"
+hash = "3cf142b46d6d27cdd441c6e1148c740e531187cddea2a4147abe3e5ac215bcd4"
 metafile = true
 
 [[files]]
@@ -4244,7 +4244,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-options-api.pw.toml"
-hash = "5240c62752415b5d66d4beffec4fe98c253eba8ebcbb2a5c1097fc3ad3de0b00"
+hash = "c78490e995975e2ccad172ecda67094273303b74f4cb47e8c0f12ea74b0402e4"
 metafile = true
 
 [[files]]
@@ -4387,17 +4387,17 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap-world-map-waystones-compability.pw.toml"
-hash = "8d36634238df44d710194c2e7bd99a58387e15a0a1a0d25edd1edc1829a00650"
+hash = "655a83dd259841e53228083d1baf59f6fb67af5af88289235ec13eb9d2ca9447"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "d55d5e9b2ceb866a5a3f7342478d4437230f1b9f177ea23360f1ab7ced0da95b"
+hash = "0f97445b56ad444eae812f7b06eb7ba26b3c70550c7a2f4b5f2c85fe2150461b"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "53d56895bd15af3b71bc1337d4449584a5abdfd4eaa653fae428ca81fcf3fee7"
+hash = "406ff80131dbf63606ffc718a2f348ce2112f0c860084578d418ffa25d768e00"
 metafile = true
 
 [[files]]

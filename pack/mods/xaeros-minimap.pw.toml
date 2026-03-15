@@ -11,8 +11,3 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 7598586
 project-id = 263420
-
-[option]
-optional = true
-default = true
-description = "The generic minimap mod."
