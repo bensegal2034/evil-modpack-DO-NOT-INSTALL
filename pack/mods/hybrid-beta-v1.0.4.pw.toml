@@ -1,0 +1,7 @@
+name = "Hybrid"
+filename = "hybrid-beta-v1.0.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "9F96E7E71361600A88A93DB1BE2BCF3B5DDE8DB3145B8791C2E4F7A649A1EA6F"
