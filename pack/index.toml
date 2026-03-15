@@ -3065,26 +3065,6 @@ file = "modernfix/structureCacheV1/waystones_village_desert_waystone_88488c210f.
 hash = "a187bd0311b9f7dda136a75de341d8ccdc8d28c8967a39437e6ca47919b4ecea"
 
 [[files]]
-file = "mods/Connector-1.0.0-beta.48+1.20.1.jar"
-hash = "b22aa7794c67805eb8fdfe72af840ace6feb1c21c4a64385ca111a2c18abbafd"
-
-[[files]]
-file = "mods/Controlling-forge-1.20.1-12.0.2.jar"
-hash = "cff8c3426a77f9e7412262b6d79e423979eff3831e010b3b1ea9677e1ecd74cd"
-
-[[files]]
-file = "mods/KeepSomeInventory-v1.3.3.jar"
-hash = "ebe7e209cf60754eeb54578131a2df528ec209e04ed0a65bed80075cf6a733fb"
-
-[[files]]
-file = "mods/Searchables-forge-1.20.1-1.0.3.jar"
-hash = "461add180eb595004d3c9f5ac0ce337752e403077f96b38304800eadf01fb825"
-
-[[files]]
-file = "mods/SmartBrainLib-forge-1.20.1-1.15.jar"
-hash = "dc1f5497e1a175397fa10ea84170d8311c71b592976128700fb008139dde55d4"
-
-[[files]]
 file = "mods/accelerated-decay.pw.toml"
 hash = "920c34a04af6fc921bbf12df0e701ccb0e0faadb961fe66d84916cf1f9f24e80"
 metafile = true
@@ -3252,6 +3232,16 @@ metafile = true
 [[files]]
 file = "mods/connector-extras.pw.toml"
 hash = "ccc22ae710d22b2c8e8851c5968f85d32bac9f40ee7ded717df78cbe0cc8dae3"
+metafile = true
+
+[[files]]
+file = "mods/connector.pw.toml"
+hash = "68a935746aad424891dcb36fa705cdafd652ea1170ecb8144b1db0c87e30297b"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "4063abe583282834b2f78e3b3e6b9ee4d231a680f74c020e405a4ef196f21ee4"
 metafile = true
 
 [[files]]
@@ -3440,8 +3430,9 @@ hash = "13306fd8dc27c0f5afb60874e6a12fc1b2252ac02e8a89ccc2f046f4898627ff"
 metafile = true
 
 [[files]]
-file = "mods/geckolib-forge-1.20.1-4.8.3.jar"
-hash = "477d5d014d6641522cd0deb93c66aefff755760259970c4c255fadb3d88ff702"
+file = "mods/geckolib.pw.toml"
+hash = "30fe947e95d8da536ea4ad3c959f07cc504dd739ea530f7f4187ac08f4afcbc0"
+metafile = true
 
 [[files]]
 file = "mods/glodium.pw.toml"
@@ -3459,8 +3450,9 @@ hash = "5cc92eb0e58c2afbfd625d727d80da1d1c84500ec962bb22f5be28b864f18551"
 metafile = true
 
 [[files]]
-file = "mods/hybrid-beta-v1.0.4.jar"
-hash = "9f96e7e71361600a88a93db1be2bcf3b5dde8db3145b8791c2e4f7a649a1ea6f"
+file = "mods/hybrid-beta.pw.toml"
+hash = "4b2cd7fc4f97b862862b412324936fd5fb2adf096c41c87810870d92a75c0c08"
+metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
@@ -3538,6 +3530,11 @@ hash = "2f4dd47f2ac99a55c332638116596bbdc38a06ac86336bb662e42c604c3a96e6"
 metafile = true
 
 [[files]]
+file = "mods/keep-some-inventory.pw.toml"
+hash = "3e7a0d8a040d12881c1530723ca677ebde658b429663f2cfccde765a55ca9fc5"
+metafile = true
+
+[[files]]
 file = "mods/knight-lib.pw.toml"
 hash = "4966571305d5b3636adaabdae0ca934d287822b99f9bb056e1dda55e41db6b81"
 metafile = true
@@ -3575,6 +3572,11 @@ metafile = true
 [[files]]
 file = "mods/lucky-block-forge-1.20.1-13.0.jar"
 hash = "ad75d19beeff986175546a127db1726d3a788eb557ee87353088987ac767015d"
+
+[[files]]
+file = "mods/lucky-block-forge-1.20.1-13.0.pw.toml"
+hash = "f5cf0166004f7d5ffe307fa619a7e7ab8688bc1b4d6e17909d1267ad93fc56b9"
+metafile = true
 
 [[files]]
 file = "mods/majrusz-library.pw.toml"
@@ -3742,8 +3744,18 @@ hash = "ef695ed57ccacb432666fdfa3672131e4d48eb0d84ee88b6bffd59c5f59f46ce"
 metafile = true
 
 [[files]]
+file = "mods/searchables.pw.toml"
+hash = "b8c7497acbf4890b4609b6b20de7affdd3482fc99af975d9ff6b29c075e1d8a7"
+metafile = true
+
+[[files]]
 file = "mods/selene.pw.toml"
 hash = "8c1ddc34636bfb9ab2209a4d387900f03682a65ed5fcf8b5027ffdd9ba49880f"
+metafile = true
+
+[[files]]
+file = "mods/smartbrainlib.pw.toml"
+hash = "bd231c766e25e2f3a5fbfa7e7b8ade2536fed16c3a5574dc30b212dc51a75044"
 metafile = true
 
 [[files]]
@@ -3752,17 +3764,19 @@ hash = "c78490e995975e2ccad172ecda67094273303b74f4cb47e8c0f12ea74b0402e4"
 metafile = true
 
 [[files]]
-file = "mods/sophisticated-storage.pw.toml"
-hash = "04d3c8219cf5d6a14c83b30400c0785824276119e2dc0f1c5ac803b80ec91047"
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "0ca5ba64f190fa8928e9309b6e49c9fe78454236ded36bacc4e9394a3b254cde"
 metafile = true
 
 [[files]]
-file = "mods/sophisticatedbackpacks-1.20.1-3.24.26.1567.jar"
-hash = "74d080c2a894b06f074115cc78ffba88a75da462e4ad2daf0d1c90af63b11af2"
+file = "mods/sophisticated-core.pw.toml"
+hash = "007044654cd508bbf0335fd102dabf21ab3cb332f8c2cd11f022c9d781926511"
+metafile = true
 
 [[files]]
-file = "mods/sophisticatedcore-1.20.1-1.3.8.1524.jar"
-hash = "a53145ed45ffe8d50f8b63fc209cb6930e43487c6c67014f89f4591f7dadd5a2"
+file = "mods/sophisticated-storage.pw.toml"
+hash = "04d3c8219cf5d6a14c83b30400c0785824276119e2dc0f1c5ac803b80ec91047"
+metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
