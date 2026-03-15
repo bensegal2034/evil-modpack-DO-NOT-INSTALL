@@ -11,3 +11,8 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 6044481
 project-id = 551736
+
+[option]
+optional = true
+default = true
+description = "Adds dynamic lighting."

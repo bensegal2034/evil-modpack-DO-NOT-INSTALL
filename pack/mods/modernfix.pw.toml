@@ -11,3 +11,8 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 7515215
 project-id = 790626
+
+[option]
+optional = true
+default = true
+description = "Optimization mod for performance, and fixes some minor Minecraft bugs. Disable if you hate more FPS and love random game crashes."

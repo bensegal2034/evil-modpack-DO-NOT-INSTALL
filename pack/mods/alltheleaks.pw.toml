@@ -11,3 +11,8 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 7235989
 project-id = 1091339
+
+[option]
+optional = true
+default = true
+description = "Optimization mod for performance. Disable if you love memory leaks."

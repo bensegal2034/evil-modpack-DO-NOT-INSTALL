@@ -11,3 +11,8 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 6100812
 project-id = 1103431
+
+[option]
+optional = true
+default = true
+description = "Optimization mod for performance. Disable if you hate more FPS."
