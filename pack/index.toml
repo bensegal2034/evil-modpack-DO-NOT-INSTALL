@@ -4387,17 +4387,17 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap-world-map-waystones-compability.pw.toml"
-hash = "655a83dd259841e53228083d1baf59f6fb67af5af88289235ec13eb9d2ca9447"
+hash = "b1bbe15498cf04b88054276710b1b9e0ca7bf6e93f9d35fae044c7b328fdee41"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "0f97445b56ad444eae812f7b06eb7ba26b3c70550c7a2f4b5f2c85fe2150461b"
+hash = "ef1974447f27db101c420ceae51ff620a8628799e1e6b1b2b235e783e3092430"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "406ff80131dbf63606ffc718a2f348ce2112f0c860084578d418ffa25d768e00"
+hash = "37986d21dbd6c3e919252e3159aaadfb03d31c3daa37c4f894a706f71247d1eb"
 metafile = true
 
 [[files]]
