@@ -1,0 +1,13 @@
+name = "evil modpack DO NOT INSTALL"
+author = "dot_dash"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "cc2179a33747e01aad3e97b06c40b06c98e1589a9d3830d0cbf476f6750f344b"
+
+[versions]
+forge = "47.4.10"
+minecraft = "1.20.1"
