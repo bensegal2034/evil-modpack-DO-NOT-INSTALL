@@ -3124,11 +3124,6 @@ hash = "8e9376087852491eb52037279506fefc45e174303530630e8b8afa571b1bd697"
 metafile = true
 
 [[files]]
-file = "mods/apothic-attributes.pw.toml"
-hash = "5f3996f32795f87086cd2e34ac1d7cc281411fe0c8799cb589706680107171ee"
-metafile = true
-
-[[files]]
 file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
 hash = "f3ddc5ed65361138c4c66fd4abd05b6050b24362dc7bb83a5ca54eafb74dd181"
 metafile = true
