@@ -3215,7 +3215,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "96204145e12506e0625d8b9bfa05aad54e9a62fd511bae39f0d57fcb5e39f4cc"
+hash = "e3dd03e7fec88831974857e2cdded54dd5c5bdcaa3f6d6248c2800e82db4dd41"
 metafile = true
 
 [[files]]
@@ -3771,6 +3771,11 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
 hash = "04d3c8219cf5d6a14c83b30400c0785824276119e2dc0f1c5ac803b80ec91047"
+metafile = true
+
+[[files]]
+file = "mods/spectrum.pw.toml"
+hash = "ba762d5a0986b2df232bea7f147cab9e260d63cb536fd5bf8890bc192e292202"
 metafile = true
 
 [[files]]
