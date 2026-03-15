@@ -1,7 +1,0 @@
-name = "Hybrid"
-filename = "geckolib-forge-1.20.1-4.8.3.jar"
-side = "both"
-
-[download]
-hash-format = "sha256"
-hash = "477D5D014D6641522CD0DEB93C66AEFFF755760259970C4C255FADB3D88FF702"

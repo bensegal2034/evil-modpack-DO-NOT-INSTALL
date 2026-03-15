@@ -1,7 +1,0 @@
-name = "Sophisticated Backpacks"
-filename = "sophisticatedbackpacks-1.20.1-3.24.26.1567.jar"
-side = "both"
-
-[download]
-hash-format = "sha256"
-hash = "74D080C2A894B06F074115CC78FFBA88A75DA462E4AD2DAF0D1C90AF63B11AF2"

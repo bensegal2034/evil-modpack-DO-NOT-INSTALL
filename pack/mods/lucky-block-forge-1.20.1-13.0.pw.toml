@@ -1,7 +1,0 @@
-name = "Lucky Blocks"
-filename = "lucky-block-forge-1.20.1-13.0.jar"
-side = "both"
-
-[download]
-hash-format = "sha256"
-hash = "AD75D19BEEFF986175546A127DB1726D3A788EB557EE87353088987AC767015D"

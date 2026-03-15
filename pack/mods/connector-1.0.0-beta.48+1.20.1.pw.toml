@@ -1,7 +1,0 @@
-name = "Sinytra Connector"
-filename = "Connector-1.0.0-beta.48+1.20.1.jar"
-side = "both"
-
-[download]
-hash-format = "sha256"
-hash = "B22AA7794C67805EB8FDFE72AF840ACE6FEB1C21C4A64385CA111A2C18ABBAFD"

@@ -1,7 +1,0 @@
-name = "Searchables"
-filename = "Searchables-forge-1.20.1-1.0.3.jar"
-side = "both"
-
-[download]
-hash-format = "sha256"
-hash = "461ADD180EB595004D3C9F5AC0CE337752E403077F96B38304800EADF01FB825"

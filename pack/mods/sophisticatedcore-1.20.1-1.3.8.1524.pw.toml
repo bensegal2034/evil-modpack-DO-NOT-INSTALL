@@ -1,7 +1,0 @@
-name = "Sophisticated Core"
-filename = "sophisticatedcore-1.20.1-1.3.8.1524.jar"
-side = "both"
-
-[download]
-hash-format = "sha256"
-hash = "A53145ED45FFE8D50F8B63FC209CB6930E43487C6C67014F89F4591F7DADD5A2"
