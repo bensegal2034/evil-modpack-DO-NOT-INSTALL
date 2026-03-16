@@ -3089,8 +3089,8 @@ hash = "ae0f8a145b252306ca9d4351eabcc3f70528e6158221ceaa5679628b6c2f85e8"
 metafile = true
 
 [[files]]
-file = "mods/ae2things.pw.toml"
-hash = "d1d63bdeb776cd8ca59800a3a6216255415fec2439228c409bd58043814a8bea"
+file = "mods/ae2-things-forge.pw.toml"
+hash = "8f7696617249a4be35a9d1a2caecce4e17bbffe823f904d10c6fc8b72c4352ca"
 metafile = true
 
 [[files]]
