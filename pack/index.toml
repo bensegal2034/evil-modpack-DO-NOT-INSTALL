@@ -1886,7 +1886,7 @@ hash = "ec439b5dd67cf3cf9ba83d6705d739f84d2612d7f3fe6ea7d723dfb93dd29086"
 
 [[files]]
 file = "config/lucky/1.20.1-13.0-forge/natural_gen.txt"
-hash = "28d850d3a625be007877964e456e5842c92d24fe02cae260c30bad52c16bb11f"
+hash = "d7dfb51516f818883257708cf14dcbd287d3263c50e4caacb27c8bd894a78e4f"
 
 [[files]]
 file = "config/lucky/1.20.1-13.0-forge/potion_drops.txt"
