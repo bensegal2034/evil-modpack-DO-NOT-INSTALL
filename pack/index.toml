@@ -3294,11 +3294,6 @@ hash = "9fefd44d9538c9846d43348f3edacf934e9d0c0f7ec9fecddfa6977876959873"
 metafile = true
 
 [[files]]
-file = "mods/create-molten-metals.pw.toml"
-hash = "849901982b3b6f3508ff70330e1fb3ff5d8d23d10b43dae3dc76dff054799ed4"
-metafile = true
-
-[[files]]
 file = "mods/create-new-age.pw.toml"
 hash = "af254a9e26ed280c6078e2d02aa9f511d5b3f0ae43767e6a35a87583014e5e6e"
 metafile = true
