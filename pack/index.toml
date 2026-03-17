@@ -2070,7 +2070,7 @@ hash = "409db87712641a768666dab5700977233c82b08b917d6e5c945579e8d340550c"
 
 [[files]]
 file = "config/occultism-client.toml"
-hash = "2da918542d7e57dad43c0b0614f5d79ddf67989016a71ef2d61344163edd7f1e"
+hash = "7dfc2ee139845d0b7eb1c33222f51537c00e3411322fb58356c6ec4af00ca03f"
 
 [[files]]
 file = "config/oculus.properties"

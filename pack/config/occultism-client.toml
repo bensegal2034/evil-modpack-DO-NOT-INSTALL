@@ -9,7 +9,7 @@
 	disableHolidayTheming = false
 	#When true the old divination rod selected block renderer will be used.
 	#May work for some people that do not see selected block outlines when using the divination rod.
-	useAlternativeDivinationRodRenderer = false
+	useAlternativeDivinationRodRenderer = true
 	#The integer code of the color of the white chalk glyph in world.
 	#This is intended to allow people with color blindness to change the color of the glyph.
 	#For most types of color blindness it should not be necessary to change this.
