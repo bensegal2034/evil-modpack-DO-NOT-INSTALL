@@ -1,0 +1,13 @@
+name = "Vic's Point Blank"
+filename = "pointblank-forge-1.20.1-1.11.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/og4KPYmA/versions/IKvr1xtC/pointblank-forge-1.20.1-1.11.1.jar"
+hash-format = "sha512"
+hash = "7c7f7de8470123833e02933829d44a94d3daa0e25231aef820e82bd8f2259e4bd5622644aa8673adec5ab0b30fcf26bab8e91e7a0d7e802e600cb661de449716"
+
+[update]
+[update.modrinth]
+mod-id = "og4KPYmA"
+version = "IKvr1xtC"

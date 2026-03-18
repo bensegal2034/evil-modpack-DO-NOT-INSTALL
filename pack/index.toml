@@ -98,7 +98,7 @@ hash = "d6d7d5becfd20cca48dabcb838021694740bd874fba80a259b05d37bcc720a43"
 
 [[files]]
 file = "config/alexsmobs.toml"
-hash = "7c01df704a66653df7793e4c6a856815be283106df03765f196c89bd962d463c"
+hash = "f8626468019f99ad66727dedc27e0808ecc8e507257bdaae6e4a02f2c7750364"
 
 [[files]]
 file = "config/alexsmobs/alligator_snapping_turtle_spawns.json"
@@ -3124,6 +3124,11 @@ hash = "8e9376087852491eb52037279506fefc45e174303530630e8b8afa571b1bd697"
 metafile = true
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "793693a85f3c87d4e899ee0c58deabc53690bf5a70f17343f28fd5063ce8a1e1"
+metafile = true
+
+[[files]]
 file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
 hash = "f3ddc5ed65361138c4c66fd4abd05b6050b24362dc7bb83a5ca54eafb74dd181"
 metafile = true
@@ -3871,6 +3876,11 @@ metafile = true
 [[files]]
 file = "mods/valkyrien-skies.pw.toml"
 hash = "a7c51cc5f8258777383ad93677a9cfe4dbef600eb4f6056bcfdc123e5cdbcf82"
+metafile = true
+
+[[files]]
+file = "mods/vics-point-blank.pw.toml"
+hash = "8e6087be6d11ff0db00c0922a460d09392c3a1b36bda84a49e1fc914e200bef5"
 metafile = true
 
 [[files]]
