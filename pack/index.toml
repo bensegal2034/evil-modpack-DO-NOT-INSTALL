@@ -3095,7 +3095,7 @@ metafile = true
 
 [[files]]
 file = "mods/aeinfinitybooster.pw.toml"
-hash = "8def13450a548a74734ee17a7e314051805fd6ef3da7a9d46eb58d84c8f59ebe"
+hash = "846831d26250caa2ecb9e68919c685b4501afa6899b38b87c7b3b4260e7f6e66"
 metafile = true
 
 [[files]]
@@ -3165,7 +3165,7 @@ metafile = true
 
 [[files]]
 file = "mods/baubley-heart-canisters.pw.toml"
-hash = "154a844dd5a2e0e652691aafaf9adcef2fbd13daaacd271773d1bb3e59a22ee2"
+hash = "1466071bbbf302a72ae487c84b7e7bb1b11648435f06c911dbded3dcf0592b63"
 metafile = true
 
 [[files]]
@@ -3275,7 +3275,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-clockwork.pw.toml"
-hash = "d514850255548d003881d16b8d80d1931a696abd9e1add65e8b4b92345ec2a33"
+hash = "0d479f522f6ae1304ddb4c8f87f4f1a57921e32ef746960c8aae96dd4bf82de0"
 metafile = true
 
 [[files]]
@@ -3285,7 +3285,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-enchantable-machinery.pw.toml"
-hash = "aaa2c0bb999cbc66166b3d246f008b431aa8a812b36fbf8a7dd1dd37e4e47e92"
+hash = "02878ef32a25b266ef205d7598d4bf472226a00266f6b816b3f83fcb2d954769"
 metafile = true
 
 [[files]]
@@ -3306,6 +3306,11 @@ metafile = true
 [[files]]
 file = "mods/create-power-loader.pw.toml"
 hash = "39cb52a90d4f3c40ad7d845e597b91c49526b8307fd52ac56b3fda2ae46160a1"
+metafile = true
+
+[[files]]
+file = "mods/create-propulsion.pw.toml"
+hash = "2f1529c5f80957687462c0870ef4233ea85dc55a77b93a9802e9a43cbe27f72a"
 metafile = true
 
 [[files]]
@@ -3440,7 +3445,7 @@ metafile = true
 
 [[files]]
 file = "mods/goety.pw.toml"
-hash = "12340cff40b45eb37c23d30dfd2942c65ebb1fd10eb08afb6fe462f9a6fb6933"
+hash = "639d0b3def04092da535dd8eeb4893f06cb3498e282b6419585932f91b2d73ed"
 metafile = true
 
 [[files]]
@@ -3555,7 +3560,7 @@ metafile = true
 
 [[files]]
 file = "mods/lionfish-api.pw.toml"
-hash = "4aebf2da5b0146081f4771be028ca1547f3ace6898603963ad5e95ddcaa179d0"
+hash = "60af8798dbf3e300a5af44125595afcd5d1e70072448444156364f222cc03e98"
 metafile = true
 
 [[files]]
@@ -3615,7 +3620,7 @@ metafile = true
 
 [[files]]
 file = "mods/modonomicon.pw.toml"
-hash = "ed09500afd4c20bf4a25c815b2f5b3645dac19f638cbb2abb2113a6974cc57f7"
+hash = "80124bd3e7bc9917e41ee22534baddfd0578f1cad90906e4c5f0c8966ce1367a"
 metafile = true
 
 [[files]]
@@ -3760,7 +3765,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "0ca5ba64f190fa8928e9309b6e49c9fe78454236ded36bacc4e9394a3b254cde"
+hash = "960180619e4d1d42101c87f9d4493f868818d5a8a59987e0787ae1d82fb8ab2a"
 metafile = true
 
 [[files]]
