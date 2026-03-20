@@ -2121,6 +2121,14 @@ file = "config/pneumaticcraft/thirdparty.cfg"
 hash = "8a456f5bdac4e667bea52c6b0027aa43aa13401b8783b4a95d2ae28bdbee7ced"
 
 [[files]]
+file = "config/pointblank-common.toml"
+hash = "18ccf4f754bb486e9420b870fb457678d5cef25f76093f1bdb85dde694e6eca7"
+
+[[files]]
+file = "config/pointblank-items.toml"
+hash = "87f198d1d61589d3bb322823e659d012f3406b40b543c43fa7952db6403da9ee"
+
+[[files]]
 file = "config/polymorph-integrations.toml"
 hash = "43a7425a314be7d78c2e31d44ab8f46c5ee824ab10906ab8909923d23646b6ad"
 
