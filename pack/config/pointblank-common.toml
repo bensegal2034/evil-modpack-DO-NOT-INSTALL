@@ -53,7 +53,7 @@ bulletsBreakGlassEnabled = true
 hitscanDamageModifier = 0.5
 #Modifier to adjust damage dealt by headshot.
 #Range: 1.0 ~ 10.0
-headshotDamageModifier = 1.5
+headshotDamageModifier = 3
 #Sets the crosshair type.
 #Allowed Values: DEFAULT, VANILLA, DISABLED
 crosshair = "DEFAULT"
