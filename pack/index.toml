@@ -2122,7 +2122,7 @@ hash = "8a456f5bdac4e667bea52c6b0027aa43aa13401b8783b4a95d2ae28bdbee7ced"
 
 [[files]]
 file = "config/pointblank-common.toml"
-hash = "18ccf4f754bb486e9420b870fb457678d5cef25f76093f1bdb85dde694e6eca7"
+hash = "68fcc9f0dfe707ac7fdf9f6d5ef33cdaacc5cc03566e08cd8ba70b9cccd38caf"
 
 [[files]]
 file = "config/pointblank-items.toml"
@@ -3082,6 +3082,11 @@ hash = "920c34a04af6fc921bbf12df0e701ccb0e0faadb961fe66d84916cf1f9f24e80"
 metafile = true
 
 [[files]]
+file = "mods/accessories-tc-layer.pw.toml"
+hash = "d0e56f4a48cc62066e31c4e4dcfb7e0141b4b707f9106dc383370926197918fd"
+metafile = true
+
+[[files]]
 file = "mods/accessories.pw.toml"
 hash = "5d3f94d4280b3367a376f086018a4005866ddecbe80b6abb0849e5d995a98e9d"
 metafile = true
@@ -3849,11 +3854,6 @@ metafile = true
 [[files]]
 file = "mods/titanium.pw.toml"
 hash = "5e41fd8f565e09e83868e4c4776154befd3203b01ed5f09b6f7cd27687ec0041"
-metafile = true
-
-[[files]]
-file = "mods/trinkets.pw.toml"
-hash = "d9bfec2cf36b6bae2d85a1136560e047ab8ce1b0e9798e7b6be5d0670f65fb55"
 metafile = true
 
 [[files]]
