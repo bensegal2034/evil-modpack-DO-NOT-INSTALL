@@ -11,3 +11,8 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 4631133
 project-id = 314002
+
+[option]
+optional = true
+default = true
+description = "Disable this if you want to play the Spectrum mod!"
